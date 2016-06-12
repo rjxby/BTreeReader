@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTreeReader", "BTreeReader\BTreeReader.csproj", "{03CEA279-D31E-4FC8-83CC-AD28A4CB23CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTreeReader.Test", "BTreeReader.Test\BTreeReader.Test.csproj", "{DCDCCB13-2AAC-4C09-ABA4-AB413D530C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CEA279-D31E-4FC8-83CC-AD28A4CB23CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CEA279-D31E-4FC8-83CC-AD28A4CB23CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CEA279-D31E-4FC8-83CC-AD28A4CB23CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CEA279-D31E-4FC8-83CC-AD28A4CB23CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDCCB13-2AAC-4C09-ABA4-AB413D530C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDCCB13-2AAC-4C09-ABA4-AB413D530C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDCCB13-2AAC-4C09-ABA4-AB413D530C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDCCB13-2AAC-4C09-ABA4-AB413D530C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

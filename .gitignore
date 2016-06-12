@@ -1,0 +1,7 @@
+/BtreeReader/bin
+/BtreeReader/obj
+/BtreeReader.Test/bin
+/BtreeReader.Test/obj
+/packages
+.vs
+.DS_Store
